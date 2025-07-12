@@ -9,6 +9,7 @@
 ➡️ Quando chegar na tela configuração da instalação (OOBE),  pressione **Shift + F10**;
 
 ➡️ No prompt de comando digite: **[Letra da mídia instalação]:\Bypass.NRO**
+
 &nbsp; &nbsp; &nbsp; **Exemplo:** *D:\BypassNRO.cmd* &ensp;
 
 ➡️ Após reiniciar selecione a opção *Eu não tenho internet* na configuração de conexão de rede;
