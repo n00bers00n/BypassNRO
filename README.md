@@ -1,6 +1,6 @@
 # Script para criar uma conta local
 ## Instruções de uso:
-➡️ Copie o arquivo **BypassNRO.cmd** para a raiz da mídia de instalação ou qualquer pasta de sua preferência;
+➡️ Copie o arquivo **BypassNRO.cmd** para a raiz da mídia de instalação;
 
 ➡️ Desconecte o cabo de rede antes de iniciar a instalação;
 
