@@ -17,4 +17,4 @@
 ➡️ Agora é só criar uma conta local.
 
 ## AVISO:
-Não me responsabilizo pelo uso incorreto dessa ferramenta, quaisquer danos ou perdas de dados causados ao seu dispositivo.
+Não me responsabilizo pelo uso incorreto dessa ferramenta, quaisquer danos ou perdas causados ao seu dispositivo.
