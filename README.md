@@ -15,3 +15,6 @@
 ➡️ Após reiniciar selecione a opção *Eu não tenho internet* na configuração de conexão de rede;
 
 ➡️ Agora é só criar uma conta local.
+
+## AVISO:
+Não me responsabilizo pelo uso incorreto dessa ferramenta, quaisquer danos ou perdas de dados causados ao seu dispositivo.
